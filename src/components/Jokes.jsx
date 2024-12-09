@@ -7,7 +7,7 @@ function Jokes() {
     .then((result)=>{
         return result.json()
     }).then((response)=>{
-        // console.log(response);
+        console.log(response);
         setData(response)
     })
   }
