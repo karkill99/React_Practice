@@ -1,0 +1,22 @@
+.White{
+   background-Color:white;
+   height:60vh;
+}
+
+.black{
+   background-Color:black;
+   height:60vh;
+}
+
+.text-black{
+   color: black;
+}
+
+.text-white{
+   color: white;
+}
+
+.btn{
+   padding: 10px 20px;
+   margin:10px
+}
